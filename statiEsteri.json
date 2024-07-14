@@ -1,0 +1,2067 @@
+[
+    {
+        "codiceNazionale": "Z100",
+        "denominazione": "ALBANIA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z101",
+        "denominazione": "ANDORRA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z137",
+        "denominazione": "ARMENIA",
+        "siglaStatoSovrano": "*",
+        "continente": "EUROPA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z102",
+        "denominazione": "AUSTRIA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z141",
+        "denominazione": "AZERBAIGIAN",
+        "siglaStatoSovrano": "*",
+        "continente": "EUROPA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z103",
+        "denominazione": "BELGIO",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z139",
+        "denominazione": "BIELORUSSIA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z153",
+        "denominazione": "BOSNIA-ERZEGOVINA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z104",
+        "denominazione": "BULGARIA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z105",
+        "denominazione": "CECOSLOVACCHIA",
+        "siglaStatoSovrano": "*",
+        "continente": "EUROPA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z149",
+        "denominazione": "CROAZIA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z107",
+        "denominazione": "DANIMARCA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z144",
+        "denominazione": "ESTONIA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z154",
+        "denominazione": "FEDERAZIONE RUSSA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z109",
+        "denominazione": "FINLANDIA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z110",
+        "denominazione": "FRANCIA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z136",
+        "denominazione": "GEORGIA",
+        "siglaStatoSovrano": "*",
+        "continente": "EUROPA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z112",
+        "denominazione": "GERMANIA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z111",
+        "denominazione": "GERMANIA REPUBBLICA DEMOCRATICA",
+        "siglaStatoSovrano": "*",
+        "continente": "EUROPA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z113",
+        "denominazione": "GIBILTERRA",
+        "siglaStatoSovrano": "GB",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z115",
+        "denominazione": "GRECIA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z116",
+        "denominazione": "IRLANDA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z117",
+        "denominazione": "ISLANDA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z122",
+        "denominazione": "ISOLA DI MAN",
+        "siglaStatoSovrano": "GB",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z108",
+        "denominazione": "ISOLE FAER OER",
+        "siglaStatoSovrano": "DK",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z118",
+        "denominazione": "IUGOSLAVIA",
+        "siglaStatoSovrano": "*",
+        "continente": "EUROPA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z152",
+        "denominazione": "KAZAKHSTAN",
+        "siglaStatoSovrano": "*",
+        "continente": "EUROPA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z142",
+        "denominazione": "KIRGHIZISTAN",
+        "siglaStatoSovrano": "*",
+        "continente": "EUROPA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z160",
+        "denominazione": "KOSOVO",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z145",
+        "denominazione": "LETTONIA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z119",
+        "denominazione": "LIECHTENSTEIN",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z146",
+        "denominazione": "LITUANIA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z120",
+        "denominazione": "LUSSEMBURGO",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z148",
+        "denominazione": "MACEDONIA DEL NORD",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z121",
+        "denominazione": "MALTA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z140",
+        "denominazione": "MOLDOVA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z123",
+        "denominazione": "MONACO",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z159",
+        "denominazione": "MONTENEGRO",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z124",
+        "denominazione": "NORMANNE (ISOLE) O ISOLE DEL CANALE",
+        "siglaStatoSovrano": "GB",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z125",
+        "denominazione": "NORVEGIA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z126",
+        "denominazione": "PAESI BASSI",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z127",
+        "denominazione": "POLONIA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z128",
+        "denominazione": "PORTOGALLO",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z114",
+        "denominazione": "REGNO UNITO",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z156",
+        "denominazione": "REPUBBLICA CECA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z129",
+        "denominazione": "ROMANIA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z130",
+        "denominazione": "SAN MARINO",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z158",
+        "denominazione": "SERBIA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z157",
+        "denominazione": "SERBIA E MONTENEGRO",
+        "siglaStatoSovrano": "*",
+        "continente": "EUROPA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z155",
+        "denominazione": "SLOVACCHIA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z150",
+        "denominazione": "SLOVENIA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z131",
+        "denominazione": "SPAGNA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z106",
+        "denominazione": "STATO CITTA' DEL VATICANO",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z132",
+        "denominazione": "SVEZIA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z133",
+        "denominazione": "SVIZZERA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z147",
+        "denominazione": "TAGIKISTAN",
+        "siglaStatoSovrano": "*",
+        "continente": "EUROPA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z151",
+        "denominazione": "TURKMENISTAN",
+        "siglaStatoSovrano": "*",
+        "continente": "EUROPA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z138",
+        "denominazione": "UCRAINA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z134",
+        "denominazione": "UNGHERIA",
+        "siglaStatoSovrano": "",
+        "continente": "EUROPA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z135",
+        "denominazione": "UNIONE REPUBBLICHE SOCIALISTE SOVIETICHE",
+        "siglaStatoSovrano": "*",
+        "continente": "EUROPA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z143",
+        "denominazione": "UZBEKISTAN",
+        "siglaStatoSovrano": "*",
+        "continente": "EUROPA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z200",
+        "denominazione": "AFGHANISTAN",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z201",
+        "denominazione": "ARABIA MERIDIONALE FEDERAZIONE",
+        "siglaStatoSovrano": "*",
+        "continente": "ASIA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z202",
+        "denominazione": "ARABIA MERIDIONALE PROTETTORATO",
+        "siglaStatoSovrano": "GB",
+        "continente": "ASIA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z203",
+        "denominazione": "ARABIA SAUDITA",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z252",
+        "denominazione": "ARMENIA",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z253",
+        "denominazione": "AZERBAIGIAN",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z204",
+        "denominazione": "BAHREIN",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z249",
+        "denominazione": "BANGLADESH",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z205",
+        "denominazione": "BHUTAN",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z207",
+        "denominazione": "BRUNEI",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z208",
+        "denominazione": "CAMBOGIA",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z211",
+        "denominazione": "CIPRO",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z212",
+        "denominazione": "COCOS (ISOLE)",
+        "siglaStatoSovrano": "AUS",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z215",
+        "denominazione": "EMIRATI ARABI UNITI",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z216",
+        "denominazione": "FILIPPINE",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z218",
+        "denominazione": "GAZA (TERRITORIO DI)",
+        "siglaStatoSovrano": "ET",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z254",
+        "denominazione": "GEORGIA",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z260",
+        "denominazione": "GERUSALEMME",
+        "siglaStatoSovrano": "Circoscrizione",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z219",
+        "denominazione": "GIAPPONE",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z220",
+        "denominazione": "GIORDANIA",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z221",
+        "denominazione": "HONG KONG",
+        "siglaStatoSovrano": "GB",
+        "continente": "ASIA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z222",
+        "denominazione": "INDIA",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z223",
+        "denominazione": "INDONESIA",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z224",
+        "denominazione": "IRAN",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z225",
+        "denominazione": "IRAQ",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z226",
+        "denominazione": "ISRAELE",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z255",
+        "denominazione": "KAZAKHSTAN",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z256",
+        "denominazione": "KIRGHIZISTAN",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z227",
+        "denominazione": "KUWAIT",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z228",
+        "denominazione": "LAOS",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z229",
+        "denominazione": "LIBANO",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z231",
+        "denominazione": "MACAO",
+        "siglaStatoSovrano": "P",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z230",
+        "denominazione": "MALAYSIA",
+        "siglaStatoSovrano": "*",
+        "continente": "ASIA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z247",
+        "denominazione": "MALAYSIA",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z232",
+        "denominazione": "MALDIVE",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z233",
+        "denominazione": "MONGOLIA",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z206",
+        "denominazione": "MYANMAR",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z234",
+        "denominazione": "NEPAL",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z235",
+        "denominazione": "OMAN",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z236",
+        "denominazione": "PAKISTAN",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z237",
+        "denominazione": "QATAR",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z213",
+        "denominazione": "REPUBBLICA DI COREA",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z210",
+        "denominazione": "REPUBBLICA POPOLARE CINESE",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z214",
+        "denominazione": "REPUBBLICA POPOLARE DEMOCRATICA DI COREA",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z238",
+        "denominazione": "RYUKYU (ISOLE)",
+        "siglaStatoSovrano": "USA",
+        "continente": "ASIA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z239",
+        "denominazione": "SIKKIM",
+        "siglaStatoSovrano": "*",
+        "continente": "ASIA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z248",
+        "denominazione": "SINGAPORE",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z240",
+        "denominazione": "SIRIA",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z209",
+        "denominazione": "SRI LANKA",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z257",
+        "denominazione": "TAGIKISTAN",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z217",
+        "denominazione": "TAIWAN",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z161",
+        "denominazione": "TERRITORI DELL'AUTONOMIA PALESTINESE",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z241",
+        "denominazione": "THAILANDIA",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z242",
+        "denominazione": "TIMOR ORIENTALE",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z243",
+        "denominazione": "TURCHIA",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z258",
+        "denominazione": "TURKMENISTAN",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z259",
+        "denominazione": "UZBEKISTAN",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z251",
+        "denominazione": "VIETNAM",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z245",
+        "denominazione": "VIETNAM DEL NORD",
+        "siglaStatoSovrano": "*",
+        "continente": "ASIA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z244",
+        "denominazione": "VIETNAM DEL SUD",
+        "siglaStatoSovrano": "*",
+        "continente": "ASIA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z246",
+        "denominazione": "YEMEN",
+        "siglaStatoSovrano": "",
+        "continente": "ASIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z250",
+        "denominazione": "YEMEN REPUBBLICA DEMOCRATICA POPOLARE",
+        "siglaStatoSovrano": "*",
+        "continente": "ASIA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z301",
+        "denominazione": "ALGERIA",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z302",
+        "denominazione": "ANGOLA",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z303",
+        "denominazione": "BASUTOLAND-SUD AFRICA BRITANNICO",
+        "siglaStatoSovrano": "GB",
+        "continente": "AFRICA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z304",
+        "denominazione": "BECIUANIA-SUD AFRICA BRITANNICO",
+        "siglaStatoSovrano": "GB",
+        "continente": "AFRICA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z314",
+        "denominazione": "BENIN",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z364",
+        "denominazione": "BOPHUTHATSWANA",
+        "siglaStatoSovrano": "*",
+        "continente": "AFRICA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z358",
+        "denominazione": "BOTSWANA",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z354",
+        "denominazione": "BURKINA FASO",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z305",
+        "denominazione": "BURUNDI",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z306",
+        "denominazione": "CAMERUN",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z307",
+        "denominazione": "CAPO VERDE",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z309",
+        "denominazione": "CIAD",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z367",
+        "denominazione": "CISKEI",
+        "siglaStatoSovrano": "*",
+        "continente": "AFRICA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z310",
+        "denominazione": "COMORE",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z311",
+        "denominazione": "CONGO",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z370",
+        "denominazione": "CONGO BELGA",
+        "siglaStatoSovrano": "*",
+        "continente": "AFRICA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z313",
+        "denominazione": "COSTA D'AVORIO",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z336",
+        "denominazione": "EGITTO",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z368",
+        "denominazione": "ERITREA",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z349",
+        "denominazione": "ESWATINI",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z315",
+        "denominazione": "ETIOPIA",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z316",
+        "denominazione": "GABON",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z317",
+        "denominazione": "GAMBIA",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z318",
+        "denominazione": "GHANA",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z361",
+        "denominazione": "GIBUTI",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z319",
+        "denominazione": "GUINEA",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z320",
+        "denominazione": "GUINEA BISSAU",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z321",
+        "denominazione": "GUINEA EQUATORIALE",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z323",
+        "denominazione": "IFNI",
+        "siglaStatoSovrano": "MA",
+        "continente": "AFRICA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z322",
+        "denominazione": "KENYA",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z359",
+        "denominazione": "LESOTHO",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z325",
+        "denominazione": "LIBERIA",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z326",
+        "denominazione": "LIBIA",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z327",
+        "denominazione": "MADAGASCAR",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z328",
+        "denominazione": "MALAWI",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z329",
+        "denominazione": "MALI",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z330",
+        "denominazione": "MAROCCO",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z331",
+        "denominazione": "MAURITANIA",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z332",
+        "denominazione": "MAURITIUS",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z360",
+        "denominazione": "MAYOTTE",
+        "siglaStatoSovrano": "F",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z333",
+        "denominazione": "MOZAMBICO",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z300",
+        "denominazione": "NAMIBIA",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z334",
+        "denominazione": "NIGER",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z335",
+        "denominazione": "NIGERIA",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z369",
+        "denominazione": "NYASALAND",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z308",
+        "denominazione": "REPUBBLICA CENTRAFRICANA",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z312",
+        "denominazione": "REPUBBLICA DEMOCRATICA DEL CONGO",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z324",
+        "denominazione": "RIUNIONE",
+        "siglaStatoSovrano": "F",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z338",
+        "denominazione": "RUANDA",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z362",
+        "denominazione": "SAHARA MERIDIONALE",
+        "siglaStatoSovrano": "RIM",
+        "continente": "AFRICA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z363",
+        "denominazione": "SAHARA SETTENTRIONALE",
+        "siglaStatoSovrano": "MA",
+        "continente": "AFRICA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z339",
+        "denominazione": "SAHARA SPAGNOLO",
+        "siglaStatoSovrano": "E",
+        "continente": "AFRICA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z340",
+        "denominazione": "SANT'ELENA",
+        "siglaStatoSovrano": "GB",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z341",
+        "denominazione": "SAO TOME' E PRINCIPE",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z343",
+        "denominazione": "SENEGAL",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z342",
+        "denominazione": "SEYCHELLES",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z344",
+        "denominazione": "SIERRA LEONE",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z345",
+        "denominazione": "SOMALIA",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z347",
+        "denominazione": "SUD AFRICA",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z907",
+        "denominazione": "SUD SUDAN",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z348",
+        "denominazione": "SUDAN",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z350",
+        "denominazione": "TANGANICA",
+        "siglaStatoSovrano": "*",
+        "continente": "AFRICA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z357",
+        "denominazione": "TANZANIA",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z346",
+        "denominazione": "TERRITORIO FRANCESE DEGLI AFAR E DEGLI ISSA",
+        "siglaStatoSovrano": "F",
+        "continente": "AFRICA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z351",
+        "denominazione": "TOGO",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z365",
+        "denominazione": "TRANSKEI",
+        "siglaStatoSovrano": "*",
+        "continente": "AFRICA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z352",
+        "denominazione": "TUNISIA",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z353",
+        "denominazione": "UGANDA",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z366",
+        "denominazione": "VENDA",
+        "siglaStatoSovrano": "*",
+        "continente": "AFRICA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z355",
+        "denominazione": "ZAMBIA",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z356",
+        "denominazione": "ZANZIBAR",
+        "siglaStatoSovrano": "*",
+        "continente": "AFRICA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z337",
+        "denominazione": "ZIMBABWE",
+        "siglaStatoSovrano": "",
+        "continente": "AFRICA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z400",
+        "denominazione": "BERMUDA",
+        "siglaStatoSovrano": "GB",
+        "continente": "AMERICA SETTENTRIONALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z401",
+        "denominazione": "CANADA",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA SETTENTRIONALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z402",
+        "denominazione": "GROENLANDIA",
+        "siglaStatoSovrano": "DK",
+        "continente": "AMERICA SETTENTRIONALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z403",
+        "denominazione": "SAINT PIERRE E MIQUELON",
+        "siglaStatoSovrano": "F",
+        "continente": "AMERICA SETTENTRIONALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z404",
+        "denominazione": "STATI UNITI D'AMERICA",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA SETTENTRIONALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z529",
+        "denominazione": "ANGUILLA",
+        "siglaStatoSovrano": "GB",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z532",
+        "denominazione": "ANTIGUA E BARBUDA",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z500",
+        "denominazione": "ANTILLE BRITANNICHE",
+        "siglaStatoSovrano": "GB",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z523",
+        "denominazione": "ANTILLE BRITANNICHE",
+        "siglaStatoSovrano": "GB",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z521",
+        "denominazione": "ANTILLE BRITANNICHE",
+        "siglaStatoSovrano": "GB",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z501",
+        "denominazione": "ANTILLE OLANDESI",
+        "siglaStatoSovrano": "NL",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z502",
+        "denominazione": "BAHAMAS",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z522",
+        "denominazione": "BARBADOS",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z512",
+        "denominazione": "BELIZE",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z503",
+        "denominazione": "COSTA RICA",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z504",
+        "denominazione": "CUBA",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z526",
+        "denominazione": "DOMINICA",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z506",
+        "denominazione": "EL SALVADOR",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z507",
+        "denominazione": "GIAMAICA",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z524",
+        "denominazione": "GRENADA",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z508",
+        "denominazione": "GUADALUPA",
+        "siglaStatoSovrano": "F",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z509",
+        "denominazione": "GUATEMALA",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z510",
+        "denominazione": "HAITI",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z511",
+        "denominazione": "HONDURAS",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z530",
+        "denominazione": "ISOLE CAYMAN",
+        "siglaStatoSovrano": "GB",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z519",
+        "denominazione": "ISOLE TURKS E CAICOS",
+        "siglaStatoSovrano": "GB",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z525",
+        "denominazione": "ISOLE VERGINI BRITANNICHE",
+        "siglaStatoSovrano": "GB",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z513",
+        "denominazione": "MARTINICA",
+        "siglaStatoSovrano": "F",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z514",
+        "denominazione": "MESSICO",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z531",
+        "denominazione": "MONTSERRAT",
+        "siglaStatoSovrano": "GB",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z515",
+        "denominazione": "NICARAGUA",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z516",
+        "denominazione": "PANAMA",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z517",
+        "denominazione": "PANAMA ZONA DEL CANALE",
+        "siglaStatoSovrano": "PA",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z518",
+        "denominazione": "PUERTO RICO",
+        "siglaStatoSovrano": "USA",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z505",
+        "denominazione": "REPUBBLICA DOMINICANA",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z533",
+        "denominazione": "SAINT KITTS E NEVIS",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z527",
+        "denominazione": "SAINT LUCIA",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z528",
+        "denominazione": "SAINT VINCENT E GRENADINE",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z520",
+        "denominazione": "VERGINI AMERICANE (ISOLE)",
+        "siglaStatoSovrano": "USA",
+        "continente": "AMERICA CENTRALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z600",
+        "denominazione": "ARGENTINA",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA MERIDIONALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z601",
+        "denominazione": "BOLIVIA",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA MERIDIONALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z602",
+        "denominazione": "BRASILE",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA MERIDIONALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z603",
+        "denominazione": "CILE",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA MERIDIONALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z604",
+        "denominazione": "COLOMBIA",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA MERIDIONALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z605",
+        "denominazione": "ECUADOR",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA MERIDIONALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z606",
+        "denominazione": "GUYANA",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA MERIDIONALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z607",
+        "denominazione": "GUYANA FRANCESE",
+        "siglaStatoSovrano": "F",
+        "continente": "AMERICA MERIDIONALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z609",
+        "denominazione": "MALVINE O FALKLAND (ISOLE)",
+        "siglaStatoSovrano": "GB",
+        "continente": "AMERICA MERIDIONALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z610",
+        "denominazione": "PARAGUAY",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA MERIDIONALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z611",
+        "denominazione": "PERU'",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA MERIDIONALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z608",
+        "denominazione": "SURINAME",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA MERIDIONALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z612",
+        "denominazione": "TRINIDAD E TOBAGO",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA MERIDIONALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z613",
+        "denominazione": "URUGUAY",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA MERIDIONALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z614",
+        "denominazione": "VENEZUELA",
+        "siglaStatoSovrano": "",
+        "continente": "AMERICA MERIDIONALE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z700",
+        "denominazione": "AUSTRALIA",
+        "siglaStatoSovrano": "",
+        "continente": "OCEANIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z701",
+        "denominazione": "CAROLINE (ISOLE)=STATI FEDERATI DI MICRONESIA",
+        "siglaStatoSovrano": "USA",
+        "continente": "OCEANIA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z702",
+        "denominazione": "CHRISTMAS (ISOLA)",
+        "siglaStatoSovrano": "AUS",
+        "continente": "OCEANIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z704",
+        "denominazione": "FIGI",
+        "siglaStatoSovrano": "",
+        "continente": "OCEANIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z705",
+        "denominazione": "GILBERT E ELLICE (ISOLE)",
+        "siglaStatoSovrano": "GB",
+        "continente": "OCEANIA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z706",
+        "denominazione": "GUAM (ISOLA)",
+        "siglaStatoSovrano": "USA",
+        "continente": "OCEANIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z707",
+        "denominazione": "IRIAN OCCIDENTALE",
+        "siglaStatoSovrano": "RI",
+        "continente": "OCEANIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z721",
+        "denominazione": "ISOLE CILENE (PASQUA E SALA Y GOMEZ)",
+        "siglaStatoSovrano": "RCH",
+        "continente": "OCEANIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z703",
+        "denominazione": "ISOLE COOK",
+        "siglaStatoSovrano": "NZ",
+        "continente": "OCEANIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z711",
+        "denominazione": "ISOLE MARSHALL",
+        "siglaStatoSovrano": "",
+        "continente": "OCEANIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z722",
+        "denominazione": "ISOLE PITCAIRN",
+        "siglaStatoSovrano": "GB",
+        "continente": "OCEANIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z724",
+        "denominazione": "ISOLE SALOMONE",
+        "siglaStatoSovrano": "",
+        "continente": "OCEANIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z729",
+        "denominazione": "ISOLE WALLIS E FUTUNA",
+        "siglaStatoSovrano": "F",
+        "continente": "OCEANIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z731",
+        "denominazione": "KIRIBATI",
+        "siglaStatoSovrano": "",
+        "continente": "OCEANIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z708",
+        "denominazione": "MACQUARIE (ISOLE)",
+        "siglaStatoSovrano": "AUS",
+        "continente": "OCEANIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z709",
+        "denominazione": "MARCUS (ISOLE)",
+        "siglaStatoSovrano": "USA",
+        "continente": "OCEANIA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z710",
+        "denominazione": "MARIANNE (ISOLE)",
+        "siglaStatoSovrano": "USA",
+        "continente": "OCEANIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z712",
+        "denominazione": "MIDWAY (ISOLE)",
+        "siglaStatoSovrano": "USA",
+        "continente": "OCEANIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z713",
+        "denominazione": "NAURU",
+        "siglaStatoSovrano": "",
+        "continente": "OCEANIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z714",
+        "denominazione": "NIUE",
+        "siglaStatoSovrano": "NZ",
+        "continente": "OCEANIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z715",
+        "denominazione": "NORFOLK (ISOLE E ISOLE DEL MAR DEI CORALLI)",
+        "siglaStatoSovrano": "AUS",
+        "continente": "OCEANIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z716",
+        "denominazione": "NUOVA CALEDONIA",
+        "siglaStatoSovrano": "F",
+        "continente": "OCEANIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z718",
+        "denominazione": "NUOVA GUINEA",
+        "siglaStatoSovrano": "AUS",
+        "continente": "OCEANIA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z719",
+        "denominazione": "NUOVA ZELANDA",
+        "siglaStatoSovrano": "",
+        "continente": "OCEANIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z717",
+        "denominazione": "NUOVE EBRIDI (ISOLE CONDOMINIO FRANCO-INGLESE)",
+        "siglaStatoSovrano": "GB-F",
+        "continente": "OCEANIA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z734",
+        "denominazione": "PALAU",
+        "siglaStatoSovrano": "",
+        "continente": "OCEANIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z730",
+        "denominazione": "PAPUA NUOVA GUINEA",
+        "siglaStatoSovrano": "",
+        "continente": "OCEANIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z720",
+        "denominazione": "PAPUASIA",
+        "siglaStatoSovrano": "AUS",
+        "continente": "OCEANIA",
+        "soppresso": "SI"
+    },
+    {
+        "codiceNazionale": "Z723",
+        "denominazione": "POLINESIA FRANCESE (ISOLE)",
+        "siglaStatoSovrano": "F",
+        "continente": "OCEANIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z726",
+        "denominazione": "SAMOA",
+        "siglaStatoSovrano": "",
+        "continente": "OCEANIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z725",
+        "denominazione": "SAMOA AMERICANE (ISOLE)",
+        "siglaStatoSovrano": "USA",
+        "continente": "OCEANIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z735",
+        "denominazione": "STATI FEDERATI DI MICRONESIA",
+        "siglaStatoSovrano": "",
+        "continente": "OCEANIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z727",
+        "denominazione": "TOKELAU O ISOLE DELL'UNIONE",
+        "siglaStatoSovrano": "NZ",
+        "continente": "OCEANIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z728",
+        "denominazione": "TONGA",
+        "siglaStatoSovrano": "",
+        "continente": "OCEANIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z732",
+        "denominazione": "TUVALU",
+        "siglaStatoSovrano": "",
+        "continente": "OCEANIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z733",
+        "denominazione": "VANUATU",
+        "siglaStatoSovrano": "",
+        "continente": "OCEANIA",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z800",
+        "denominazione": "DIPENDENZE CANADESI",
+        "siglaStatoSovrano": "",
+        "continente": "TERRE POLARI ARTICHE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z801",
+        "denominazione": "DIPENDENZE NORVEGESI ARTICHE",
+        "siglaStatoSovrano": "",
+        "continente": "TERRE POLARI ARTICHE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z802",
+        "denominazione": "DIPENDENZE RUSSE",
+        "siglaStatoSovrano": "",
+        "continente": "TERRE POLARI ARTICHE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z900",
+        "denominazione": "DIPENDENZE AUSTRALIANE",
+        "siglaStatoSovrano": "",
+        "continente": "TERRE POLARI ANTARTICHE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z901",
+        "denominazione": "DIPENDENZE BRITANNICHE",
+        "siglaStatoSovrano": "",
+        "continente": "TERRE POLARI ANTARTICHE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z902",
+        "denominazione": "DIPENDENZE FRANCESI",
+        "siglaStatoSovrano": "",
+        "continente": "TERRE POLARI ANTARTICHE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z903",
+        "denominazione": "DIPENDENZE NEOZELANDESI",
+        "siglaStatoSovrano": "",
+        "continente": "TERRE POLARI ANTARTICHE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z904",
+        "denominazione": "DIPENDENZE NORVEGESI ANTARTICHE",
+        "siglaStatoSovrano": "",
+        "continente": "TERRE POLARI ANTARTICHE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z905",
+        "denominazione": "DIPENDENZE STATUNITENSI",
+        "siglaStatoSovrano": "",
+        "continente": "TERRE POLARI ANTARTICHE",
+        "soppresso": ""
+    },
+    {
+        "codiceNazionale": "Z906",
+        "denominazione": "DIPENDENZE SUDAFRICANE",
+        "siglaStatoSovrano": "",
+        "continente": "TERRE POLARI ANTARTICHE",
+        "soppresso": ""
+    }
+]
